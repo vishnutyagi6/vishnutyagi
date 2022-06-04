@@ -8,8 +8,8 @@
         "compass bot",
         "bee filter bot"
     ],
-    "website": "https://telegram.dog/Dlaize",
-    "repository": "https://github.com/dakshkohli23/Unlimited-Filter-Bot",
+    "website": "https://telegram.dog/Movieszhuubbot",
+    "repository": "https://github.com/vishnutyagi6/Unlimited-Filter-Bot",
     "success_url": "https://telegram.dog/Dlaize",
     "env": {
         "WEBHOOK": {
